@@ -1,0 +1,46 @@
+* {
+    font-family: "Courier New", Tahoma, monospace;
+}
+
+h1 {
+    color: blue;
+}
+
+ul {
+    background-color: aqua;
+}
+
+.descrip {
+    text-align: center;
+    font-size: 36px;
+}
+
+.list {
+    color: cyan;
+    text-align: right;
+    background-color: cadetblue;
+}
+
+.steps {
+    background-color: blanchedalmond;
+    font-weight: lighter;
+}
+
+.steps#beans {
+    color: brown;
+    font-family: Tahoma, monospace;
+}
+
+.steps#coleslaw {
+    color: burlywood;
+    font-family: Arial, sans-serif;
+}
+
+.steps#macaroni {
+    color: cornsilk;
+    font-family: Georgia, fantasy;
+}
+
+ol {
+    background-color: cornflowerblue;
+}

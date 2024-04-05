@@ -4,10 +4,24 @@
 
 h1 {
     color: blue;
+    text-align: center;
+    padding: 16px;
+    background: darkcyan;
+    margin: 16px auto;
+    border: rebeccapurple solid 3px;
 }
 
 ul {
     background-color: aqua;
+    margin-top: 0;
+    border: solid 3px midnightblue;
+}
+
+li {
+    color: midnightblue;
+    padding: 8px;
+    border: 2px dotted indigo;
+    background-color: deepskyblue;
 }
 
 .descrip {
@@ -43,4 +57,5 @@ ul {
 
 ol {
     background-color: cornflowerblue;
+    border: 3px dotted black;
 }
